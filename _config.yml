@@ -1,0 +1,11 @@
+title: Rajwrita Url Shortener
+description:Rajwrita Url Shortener
+logo: /assets/img/logo.png
+show_downloads: false
+google_analytics: G-YJGLCXPYDR
+theme: jekyll-theme-minimal
+
+permalink: /:slug/
+
+plugins:
+  - jekyll-redirect-from
