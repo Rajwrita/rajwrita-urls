@@ -1,4 +1,4 @@
 ---
-title: Zusa Pilot Survey
-redirect_to: https://forms.gle/YYDRR4DVJaEStg9V7
+title: Zusa Slides
+redirect_to: https://drive.google.com/file/d/1KaMz3UMreUiamlLjqtJXAtBhtG2H_nS0/view?usp=sharing
 ---
