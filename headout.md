@@ -1,4 +1,4 @@
 ---
 title: Headout Assignment
-redirect_to: https://drive.google.com/file/d/1L84VPlIWYTPRZpzsITbrme2hRFWCx9cy/view?usp=sharing
+redirect_to: https://drive.google.com/file/d/1Fy2YAh-RsJQUF7CXHzdWwLEQPrfzOuUq/view?usp=sharing
 ---
