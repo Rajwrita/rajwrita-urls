@@ -1,4 +1,4 @@
 ---
-title: Interview Preparation Links
-redirect_to: https://github.com/Rajwrita/Interview-prep
+title: cooks
+redirect_to: https://rajwritacooks.framer.website/
 ---
